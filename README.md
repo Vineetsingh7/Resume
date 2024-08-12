@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title>Vineet Singh</title>
 </head>
 <body>
-    <h1> Vineet Singh</h1>
     &ensp;&ensp;&ensp; <a href="https://mail.google.com/"> vineetsingh7217@gmail.com</a>&ensp;&ensp;&ensp;&ensp;&ensp; &bull;7217675700 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/vineet-singh-b8853a320/">@Linkedin</a>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.instagram.com/pt._.vineet.007/">@instagram</a> 
     <h2>&ensp;&ensp;Frontend Developer intern</h2>
     <p>&ensp;&ensp;&ensp;&ensp;A passionate Frontend Developer intern with a drive to creta exceptional user experiences through<br>&ensp;&ensp;&ensp;&ensp; the use of HTML;CSS and Javascript Seeking a position to leverage strong technical and problem<br>&ensp;&ensp;&ensp;&ensp;-solving skills and extensive web development knowledge to achieve organization efficiency,<br>&ensp;&ensp;&ensp;&ensp; reduce page load speeds and optimize user interfaces.</p>
