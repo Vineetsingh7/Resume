@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Vineet Singh</h1>
-    &ensp;<a href="https://mail.google.com/">  vineetsingh7217@gmail.com</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &bull;7217675700 &ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/vineet-singh-b8853a320/">@Linkedin</a>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.instagram.com/pt._.vineet.007/">@instagram</a> 
+    &ensp;<a href="https://mail.google.com/">  vineetsingh7217@gmail.com</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &bull;7217675700 &ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/vineet-singh-b8853a320/">@Linkedin</a>  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.instagram.com/pt._.vineet.007/">@instagram</a> 
     <h2>Frontend Developer intern</h2>
     <p>A passionate Frontend Developer intern with a drive to creta exceptional user experiences through the use of HTML;CSS and Javascript Seeking a position to leverage strong technical and problem-solving skills and extensive web development knowledge to achieve organization efficiency, reduce page load speeds and optimize user interfaces.</p>
      <h2>Projects</h2>
